@@ -12374,11 +12374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Sources\\ExploreTunisia\\ExploreTunisia.csproj",
+      "projectUniqueName": "B:\\Github\\ASP.NET Core  2.2 ExploreTunisia\\ExploreTunisia.csproj",
       "projectName": "ExploreTunisia",
-      "projectPath": "B:\\Sources\\ExploreTunisia\\ExploreTunisia.csproj",
+      "projectPath": "B:\\Github\\ASP.NET Core  2.2 ExploreTunisia\\ExploreTunisia.csproj",
       "packagesPath": "C:\\Users\\assam\\.nuget\\packages\\",
-      "outputPath": "B:\\Sources\\ExploreTunisia\\obj\\",
+      "outputPath": "B:\\Github\\ASP.NET Core  2.2 ExploreTunisia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
